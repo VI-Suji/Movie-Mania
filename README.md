@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Before Starting 
+
+Use your api key and put it in the .evm file from [https://api.themoviedb.org/](https://api.themoviedb.org/) in the code
+
 ### `yarn start`
 
 Runs the app in the development mode.\
@@ -44,6 +48,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 
 ### Code Splitting
 
